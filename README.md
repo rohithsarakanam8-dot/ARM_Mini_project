@@ -20,6 +20,9 @@ EVENT BOARD: RTC-DRIVEN MESSAGE DISPLAY  SYSTEM
   <img src="Block_diagram.png" alt="Block Diagram" width="500">
 </p>
 
+## Project Images And Videos
+https://drive.google.com/drive/folders/15Vhbp0AVr13JE6l9_vvnTzmXvV_bJqS7
+
 ## Features
 - RTC-based scheduled message display
 - 16x2 LCD with scrolling text
